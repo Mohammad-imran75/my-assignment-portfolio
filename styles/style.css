@@ -1,4 +1,9 @@
 /* banner related style */
+*{
+    width: 1600;
+    height: 1770;
+    color: #FFFFFF;
+}
 .banner-section{
     background-image: url('../resources/Banner\ Image.png');
     margin-top: 50px;
@@ -24,4 +29,33 @@
     font-size: 72px;
     font-weight: 900;
     padding: 0px 344px 170px 344px;
+}
+/* offer related style */
+.main-section{
+    text-align: center;
+}
+.section-title{
+    font-size: 85px;
+    font-weight: 700;
+    color: #FF0000;
+    margin-top: 170px;
+    margin-bottom: 45px;
+    border-radius: 5px;
+}
+.section-description{
+    font-size: 24px;
+    font-weight:500 ;
+    color: #FF0000;
+    border-radius: 5px;
+}
+.section-title-description{
+    font-size: 40px;
+    font-weight: 700;
+    color: #070211;
+    margin-bottom: 45px;
+}
+.main-section-photo{
+    padding: 2px;
+    width: 800;
+    height: 500;
 }
