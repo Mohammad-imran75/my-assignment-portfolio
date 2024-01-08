@@ -133,17 +133,16 @@
     width: 1600;
     height: 7740;
     margin:50px 100px 50px 140px;
+    padding: 60px;
 }
 .best-offer-title-system{
-    font-size: 24px;
-    font-weight: 500;
-    color: #FF0000;
-    padding-bottom: px;
     width: 200;
     height: 25;
-}
-.best-offer-title{
-    gap: 0px;
+    font-size: 30px;
+    font-weight: 500;
+    color: rgba(255, 0, 0, 1);
+    padding-bottom: 10px;
+    margin-bottom: 30px;
 }
 .best-offer-title-section{
     font-size: 45px;
@@ -156,12 +155,15 @@
     font-size: 20px;
     font-weight: 400;
     color: #990702;
+    width: 70%; */
 }
 .best-offer-image{
-    border-width: 15px;
-    width:450 ;
+    border: 10px solid #FF0000 ;
+    width:450;
     height: 450;
-    color: #FF0000;
+    border-radius: 100%;
+    margin: 70px 130px 70px 70px;
+    
 }
 .best-offer-head{
     font-size: 45px;
