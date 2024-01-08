@@ -2,7 +2,7 @@
 *{
     width: 1600;
     height: 1770;
-    /* color: #FFFFFF; */
+    /* color: #d2c4c4; */
 }
 .banner-section{
     background-image: url('../resources/Banner\ Image.png');
@@ -112,7 +112,7 @@
     padding-top: 50px;
     font-size: 32px;
     font-weight: 400;
-    color: #070211;
+    color:black;
     text-align: center;
 }
 .button-section{
@@ -132,7 +132,7 @@
     display: flex;
     width: 1600;
     height: 7740;
-    margin:50px 100px 50px 140px;
+    margin:50px 100px 0px 140px;
     padding: 60px;
 }
 .best-offer-title-system{
@@ -186,7 +186,7 @@
 .best-gift{
     margin-left: 100px;
     margin-right: 100px;
-    margin-top: 100px;
+    margin-top: 50px;
 }
 .best-gift-title{
     width: 190;
