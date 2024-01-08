@@ -101,7 +101,7 @@
 }
 /* hotel related style */
 .hotel-section{
-    margin:50px 100px 50px 100px  ;
+    margin:50px 140px 50px 100px  ;
     background-color:rgb(224, 214, 215);
     height:200 ;
     width: 1100; 
@@ -270,4 +270,53 @@
 }
 .newsletter-gmail{
     padding: 15px;
+}
+/* footer section style */
+.footer-section{
+    background-color: #070211;
+    width: 1600;
+    height:900;
+}
+
+.footer-item{
+    display: flex;
+    justify-content: space-between;
+}
+.footer-details{
+    margin:70px 0px 70px 140px;
+    color: #FFFFFF;
+    width: 375;
+    height: 80;
+    font-size:20px ;
+    font-weight:500;
+}
+.footer-contact{
+    width: 190;
+    height: 140;
+    color: #FFFFFF;
+    margin: 70px 290px 70px 0px;
+}
+.footer-icon{
+    text-align: center;
+    padding: 50px;
+}
+.horigental-distance{
+    color:#FFFFFF26;
+    margin: 0px 140px 0px 140px;
+}
+.footer-expierd{
+    width: 290;
+    height: 30;
+    font-size: 20px;
+    font-weight: 500;
+    color: #FFFFFF;
+    margin: 40px 0px 100px 140px;
+    justify-content: space-between;
+}
+.footer-button{
+    margin-right: 140px;
+    margin-left: 900px;
+    margin-bottom: 70px;
+    padding: 15px;
+    color: #FFFFFF;
 }
