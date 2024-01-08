@@ -184,8 +184,8 @@
 }
 /* gift related style */
 .best-gift{
-    margin-left: 100px;
-    margin-right: 100px;
+    margin-left: 140px;
+    margin-right: 140px;
     margin-top: 50px;
 }
 .best-gift-title{
@@ -317,7 +317,7 @@
     justify-content: space-between;
 }
 .footer-button{
-    margin-right: 140px;
+    margin-right: 170px;
     margin-left: 900px;
     margin-bottom: 70px;
     padding: 15px;
