@@ -228,4 +228,46 @@
     column-gap: 15px;
     border-radius: 5px;
 }
-.
+.subscribe-newsletter{
+    text-align: center;
+    margin: 100px;
+    width: 1300;
+    height: 600;
+    background-color:pink;
+}
+.newsletter-icon{
+    margin-top: 80px;
+    margin-left: 570px;
+    margin-right: 570px;
+    padding: 2px;
+    width: 140;
+    height: 140;
+}
+.newsletter-title{
+    width: 500;
+    height: 50;
+    font-size: 40px;
+    font-weight: 900;
+    color: #070211;
+    margin-top: 10px;
+}
+.newsletter-description{
+    width: 880;
+    height: 60;
+    font-size:20px ;
+    font-weight:400;
+    margin:10px 230px 20px 230px ;
+    color: #070211;
+}
+.newsletter-button{
+    text-align: center;
+    padding-bottom: 50px;
+}
+.button-primary{
+    background-color: #FF0000;
+    border-radius: 20px;
+    padding: 15px;
+}
+.newsletter-gmail{
+    padding: 15px;
+}
