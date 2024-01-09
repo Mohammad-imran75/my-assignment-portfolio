@@ -24,6 +24,7 @@
     padding-top: 170px;
     padding-left: 400px;
     padding-right: 400px;
+    box-shadow: inset;
 }
 .banner-description{
     width: 632;
@@ -32,6 +33,7 @@
     font-size: 50px;
     font-weight: 900;
     padding: 0px 344px 220px 344px;
+    box-shadow: inset;
 }
 /* offer related style */
 .main-section{
@@ -158,7 +160,7 @@
     font-size: 20px;
     font-weight: 400;
     color: #990702;
-    width: 70%; */
+    width: 70%; 
 }
 .best-offer-image{
     border: 10px solid #FF0000 ;
