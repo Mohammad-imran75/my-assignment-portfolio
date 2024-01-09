@@ -271,8 +271,10 @@
 }
 .button-primary{
     background-color: #FF0000;
-    border-radius: 20px;
+    border-radius: 0px 20px 20px 0px;
     padding: 15px;
+    position: relative;
+    left: -10px;
 }
 .newsletter-gmail{
     padding: 15px;
